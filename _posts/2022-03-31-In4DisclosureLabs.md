@@ -1,7 +1,7 @@
 ---
 title: Information Disclosure Labs
 date: 2022-03-31 20:00:00 +0700
-categories: [Writeup, PortSwigger]
+categories: [Blog, PortSwigger]
 tags: [information_disclosure]     # TAG names should always be lowercase
 ---
 
