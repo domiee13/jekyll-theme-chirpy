@@ -32,7 +32,7 @@ domiee13.github.io
 
 ### 2021-Now
 
-## Web Application p****enetration Tester Intern****
+## Web Application penetration Tester Intern
 
 BlueCyber
 
@@ -66,9 +66,9 @@ THPT Chuyen Luong Van Tuy
 
 ---
 
-- **Adobe Design**
-- **Microsoft Excel**
-- **Project Management**
+- **_Placeholder_**
+- **_Placeholder_**
+- **_Placeholder_**
 
 ## Hobbies
 
