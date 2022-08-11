@@ -5,8 +5,6 @@ categories: [Blog]
 tags: [bug_bounty]     # TAG names should always be lowercase
 ---
 
-# Bugbounty la xau
-
 ## Bug bounty là gì?
 
 ## Mindset
@@ -90,7 +88,8 @@ Không lòng vòng nữa, đầu tiên khi thấy một đống subdomain thế 
 amass enum -d domain | httpx -title -status-code
 ```
 
-Kí tự “|” để mình chain 2 câu lệnh với nhau, đại khái nó sẽ lấy đầu ra câu lệnh trước làm đầu vào cho câu lệnh tiếp theo, muốn hiểu rõ hơn thì bạn nên làm 1 khóa linux cơ bản :^ 
+Kí tự “|” để mình chain 2 câu lệnh với nhau, đại khái nó sẽ lấy đầu ra câu lệnh trước làm đầu vào cho câu lệnh 
+tiếp theo, muốn hiểu rõ hơn thì bạn nên làm 1 khóa linux cơ bản :^ 
 
 Sau khi có list các subdomain còn sống, mình sẽ đi sâu vào từng subdomain 1:
 
@@ -149,7 +148,7 @@ Cái này cần câu cơm nên mình không share đâu 🐧
 
 Một bài mình thấy tổng hợp khá đủ: 
 
-[Gold Bug Bounty Resources in 2022 | Web Application, Android & iOS Security | by Subham Dhungana | Medium](https://shubhdhungana.medium.com/gold-bug-bounty-resources-web-application-android-ios-security-dc88bfb24eb)
+[Gold Bug Bounty Resources in 2022](https://shubhdhungana.medium.com/gold-bug-bounty-resources-web-application-android-ios-security-dc88bfb24eb)
 
 Youtube (Nói chung tùy người, bạn thấy hợp ai thì xem người đó)
 
