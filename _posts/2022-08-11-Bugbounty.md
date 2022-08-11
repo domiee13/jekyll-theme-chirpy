@@ -1,6 +1,6 @@
 ---
 title: Đừng chơi Bug bounty, chạy, chạy ngay đi!!
-date: 2021-03-24 19:45:00 +0700
+date: 2022-08-11 12:00:00 +0700
 categories: [Blog]
 tags: [bug_bounty]     # TAG names should always be lowercase
 ---
